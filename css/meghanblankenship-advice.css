@@ -1,0 +1,29 @@
+body {
+  background-color: #79d279;
+  color: #ff0066;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h4 {
+  font-size: 22px;
+}
+
+ul, li {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+h1, h4, footer {
+  text-align: center;
+}
+
+footer{
+  margin-top: 120px;
+  font-size: 10px;
+  color: black;
+  font-weight: 300;
+}
